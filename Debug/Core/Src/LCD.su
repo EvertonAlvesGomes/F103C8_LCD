@@ -1,0 +1,13 @@
+LCD.c:13:6:delay_us	16	static
+LCD.c:20:6:lcd_pulse_enable	8	static
+LCD.c:29:6:lcd_envia_nibble	24	static
+LCD.c:49:6:lcd_envia_byte	16	static
+LCD.c:56:6:lcd_function_set	8	static
+LCD.c:88:6:lcd_on_off_control	16	static
+LCD.c:97:6:lcd_clear_display	8	static
+LCD.c:105:6:lcd_entry_mode_set	8	static
+LCD.c:113:6:lcd_reset	8	static
+LCD.c:125:6:lcd_init	8	static
+LCD.c:140:6:lcd_write	16	static
+LCD.c:148:6:lcd_pos_xy	24	static
+LCD.c:199:6:lcd_write_string	24	static
